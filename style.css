@@ -1,0 +1,59 @@
+.titulo{
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    margin-top: 210px;
+    margin-left: 220px;
+}
+
+
+
+body {
+  background-color: rgb(85, 85, 85);
+}
+
+.mensaje {
+  position: relative;
+ 
+  background-color: black;
+  background-position: 18px;
+
+  font-size: 20px;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 100px;
+  text-align: center;
+}
+
+.input-texto {
+  background: black;
+  position: relative;
+  background-color: black;
+  background-position: 18px;
+  
+  font-size: 20px;
+  color: white;
+  border-radius: 10px;
+ 
+}
+
+textarea {
+    padding: 32px;
+    margin: 5px;
+}
+
+button {
+  color: rgb(92, 92, 95);
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.botones :hover {
+  transform: scale(0.9);
+  color: rgb(204, 22, 22);
+}
